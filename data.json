@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "subject": "Информатика",
+        "subjectTime": "08:00",
+        "studentsMax": 30,
+        "freePlaces": 20
+    },
+    {
+        "id": 2,
+        "subject": "Математический анализ",
+        "subjectTime": "9:30",
+        "studentsMax": 60,
+        "freePlaces": 60
+    },
+    {
+        "id": 3,
+        "subject": "Основы физической химии",
+        "subjectTime": "16:30",
+        "studentsMax": 30,
+        "freePlaces": 29
+    },
+    {
+        "id": 4,
+        "subject": "Начертательная геометрия",
+        "subjectTime": "10:30",
+        "studentsMax": 30,
+        "freePlaces": 20
+    },
+    {
+        "id": 5,
+        "subject": "Физическая культура",
+        "subjectTime": "18:00",
+        "studentsMax": 70,
+        "freePlaces": 45
+    }
+
+]

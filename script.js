@@ -40,13 +40,11 @@ const showContent = () => {
             </li>
         `)
         }
-
     })
 }
 
 showContent();
 const titleEl = document.querySelector('.subject-list');
-
 
 titleEl.addEventListener('click', (e) => {
     const target = e.target;
